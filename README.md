@@ -8,7 +8,7 @@ Step 1:
 Create a new Class named pascal.
 
 Step 2:
-Declare two variables of int data type one to store the input from user for no.of rows snd another the value for printing.
+Declare two variables of int data type one to store the input from user for no.of rows and another the value for printing.
 
 Step 3:
 Get the number of rows from the user.
@@ -17,7 +17,7 @@ Step 4:
 Using for loop print the rows and columns and space.
 
 Step 5:
-Check the first and last rows of the triange is 1 using if condition.
+Check the first and last rows of the triangle is 1 using if condition.
 
 Step 6:
 Otherwise use else to print the inner value val = val * (i - j + 1) / j
